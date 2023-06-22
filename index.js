@@ -10,10 +10,10 @@
 
 
         let x=1,y=2;
-        console.log(z=x+y);
+        console.log(z=x*y);
 
 
 let k=90;
 l=8;
-console.log(f=k-l);
+console.log(f=k/l);
 
