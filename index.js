@@ -1,7 +1,11 @@
 
         let a=9,b=10,c=9,d;
 
-        let e=100;
+
+       
+
+        let e=500;
+
         console.log(d=a+b+c+e);
 
 
