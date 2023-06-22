@@ -4,3 +4,7 @@
         let e=90;
         console.log(d=a+b+c+e);
 
+
+        let x=1,y=2;
+        console.log(z=x+y);
+
